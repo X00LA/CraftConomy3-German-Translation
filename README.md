@@ -29,3 +29,14 @@ Installation:
 Datei herunterladen:
 
 https://gist.github.com/X00LA/8911321
+
+
+FAQ:
+
+Frage:
+Die Umlaute werden nicht richtig agezeigt! Warum?
+
+Antwort:
+Öffne die Datei in einem Textverarbeitungsprogramm (empfohlen Notepad++) und ändere die Kodierung zu "UTF8 ohne BOM".
+Speicher die Datei und gehe nach der obigen Anleitung vor.
+Nun sollten die Umlaute richtig angezeigt werden.
